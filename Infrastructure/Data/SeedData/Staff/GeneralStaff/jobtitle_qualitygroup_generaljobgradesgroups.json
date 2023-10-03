@@ -1,0 +1,4382 @@
+[
+ {
+  "Name": "أخصائى إحصاء أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى إحصاء ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى إحصاء ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى احصاء طبى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى احصاء طبى ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى احصاء طبى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى بحوث وحاسبات علميه اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى بحوث وحاسبات علميه ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى بحوث وحاسبات علميه ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى تحليل وتصميم نظم إداريه أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "اخصائى تحليل وتصميم نظم إداريه ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تحليل وتصميم نظم إداريه ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تخطيط برامج أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تخطيط برامج ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تخطيط برامج ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى حاسبات الية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى حاسبات الية ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى حاسبات ألية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى معلومات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى معلومات ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى معلومات  ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى أحصاء أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى أحصاء ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى أخحصاء ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى أحصاء وحاسبات ألكترونيه أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى أحصاء وحاسبات ألكترونيه ثان",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى أحصاء وحاسبات الكترونيه ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تشغيل حاسبات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تشغيل حاسبات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تشغيل حاسبات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى حاسبات الكترونية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى حاسبات الكترونية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى حاسبات الكترونية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تدريب حاسبات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تدريب حاسبات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى تدريب حاسبات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "كبير أخصائين إحصاء بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "كبير أخصائين بحوث وحاسبات علمية بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 4
+ },
+ {
+  "Name": "أخصائى إتصالات وعلاقات دولية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إتصالات وعلاقات دولية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إتصالات وعلاقات دولية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إعلام أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إعلام ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إعلام ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إعلام وترجمة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إعلام وترجمة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى إعلام وترجمة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى علاقات ثقافية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى علاقات ثقافية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى علاقات ثقافية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى علاقات عامة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى علاقات عامة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى علاقات عامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "باحث نشر أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "باحث نشر ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "باحث نشر ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "مترجم أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "مترجم ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "مترجم ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "كبير أخصائين إعلام بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 5
+ },
+ {
+  "Name": "أخصائى شئون طلاب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون طلاب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون طلاب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الدراسات العليا والبحوث أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الدراسات العليا والبحوث ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الدراسات العليا والبحوث ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون التسجيل والخريجين أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون التسجيل والخريجين ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون التسجيل والخريجين ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون العلاقات الثقافية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون العلاقات الثقافية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون العلاقات الثقافية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون تعليم أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون تعليم ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون تعليم ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الوافدين أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الوافدين ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الوافدين ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الدراسة والإمتحانات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الدراسة والإمتحانات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى شئون الدراسة والإمتحانات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى علاقات علمية وثقافية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى علاقات علمية وثقافية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى علاقات علمية وثقافية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى علاقات علمية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى علاقات علمية ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى علاقات علمية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى انشطة ثقافية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى انشطة ثقافية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى انشطة ثقافية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى تدريب طلاب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى تدريب طلاب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى تدريب طلاب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى وسائل تعليمية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى وسائل تعليمية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى وسائل تعليمية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى منشأت تعليمية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى منشأت تعليمية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى منشأت تعليمية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى أجهزة تعليمية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى أجهزة تعليمية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "اخصائى أجهزة تعليمية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى معمل صوتيات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى معمل صوتيات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى معمل صوتيات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى معمل علم نفس أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى معمل علم نفس ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى معمل علم نفس ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "باحث شئون تعليم أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "باحث شئون تعليم ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "باحث شئون تعليم ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "باحث دراسات عليا أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "باحث دراسات عليا ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "باحث دراسات عليا ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدرس مادة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدرس مادة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدرس مادة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدرس مادة ولغه أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدرس مادة ولغه ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدرس مادة ولغه ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "كبير أخصائيين شئون تعليم بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدير إدارة شئون التعليم",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مديرإدارة شئون الدراسات العليا",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدير إدارة شئون الخريجين",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدير إدارة شئون الدراسة ولامتحانات",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "مدير إدارة شئون العلاقات الثقافية",
+  "QualityGroup_GeneralJobGradesGroupsId": 6
+ },
+ {
+  "Name": "أخصائى تغذية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "أخصائى تغذية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "أخصائى تغذية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "طباخ أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "طباخ ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "طباخ ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "كبير أخصائيين تغذية بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "كبير طباخين",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "مدير إدارة التغذية",
+  "QualityGroup_GeneralJobGradesGroupsId": 7
+ },
+ {
+  "Name": "أخصائى تمريض أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "أخصائى تمريض ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "أخصائى تمريض ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "مدرسة تمريض أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "مدرسة تمريض ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "مدرسة تمريض ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "كبير أخصائيين تمريض بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "مدير إدارة شئون التمريض",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "مدير عام شئون التمريض",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "مدير مدرسة التمريض",
+  "QualityGroup_GeneralJobGradesGroupsId": 8
+ },
+ {
+  "Name": "أخصائى تمويل ومحاسبة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى تمويل ومحاسبة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى تمويل ومحاسبة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى تمويل مالى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى تمويل مالى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى تمويل مالى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى حسابات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى حسابات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى حسابات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى شئون مالية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى شئون مالية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى شئون مالية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى مشتريات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى مشتريات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى مشتريات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى مشتريات ومخازن أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى مشتريات ومخازن ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى مشتريات ومخازن ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى موازنة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى موازنة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى موازنة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "باحث شئون مالية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "باحث شئون مالية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "باحث شئون مالية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "محاسب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "محاسب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "محاسب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "محاسب  ومراجع أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "محاسب ومراجع ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "محاسب ومراجع ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 9
+ },
+ {
+  "Name": "أخصائى تأمين ومعاشات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تأمين ومعاشات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تأمين ومعاشات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تخطيط ومتابعة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تخطيط ومتابعة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تخطيط ومتابعة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تدريب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تدريب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تدريب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى ترتيب وظائف وتخطيط قوى العاملة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى ترتيب وظائف وتخطيط قوى العاملة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى ترتيب وظائف وتخطيط قوى العاملة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى ترتيب وموازنة وظائف أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى ترتيب وموازنه وظائف ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى ترتيب وموازنة وظائف ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تطبيق نظم ولوائح وظيفية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تطبيق نظم ولوائح وظيفية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تطبيق نظم ولوائح وظيفية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنظيم وإدارة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنظيم وإدارة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنظيم وإدارة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنظيم و طرق عمل أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنظيم و طرق عمل ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنظيم و طرق عمل ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنمية إدارية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنمية إدارية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى تنمية إدارية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى توجية إدارى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى توجية إدارى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى توجية إدارى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى توجية مالى وإدارى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى توجية مالى وإدارى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى توجية مالى وإدارى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى خدمة مواطنين أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى خدمة مواطنين ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى خدمة مواطنين ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى رعاية عاملين أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى رعاية عاملين ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى رعاية عاملين ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أطباء أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أطباء ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أطباء ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أفراد أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أفراد ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أفراد ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون إدارية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون إدارية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون إدارية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أعضاء هيئة التدريس أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أعضاء هيئة التدريس ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون أعضاء هيئة التدريس ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون عاملين أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون عاملين ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى شئون عاملين ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى مجالس أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى مجالس ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى مجالس ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى متابعة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى متابعة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى متابعة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى معلومات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى معلومات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى معلومات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى علاقات عامة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى علاقات عامة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى علاقات عامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 10
+ },
+ {
+  "Name": "أخصائى حاسب آلى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 11
+ },
+ {
+  "Name": "أخصائى حاسب آلى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 11
+ },
+ {
+  "Name": "أخصائى حاسب آلى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 11
+ },
+ {
+  "Name": "أخصائى اجتماعى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى اجتماعى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "اخصائى اجتماعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى اجتماعى واقامة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى اجتماعى واقامة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى اجتماعى واقامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إسكان أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إسكان ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إسكان ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إشراف وإقامة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إشراف وإقامة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إشراف وإقامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إعداد قادة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إعداد قادة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إعداد قادة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إقامة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إقامة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى إقامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى بحوث علمية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى بحوث علمية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى بحوث علمية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى تخطيط ومتابعة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى تخطيط ومتابعة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى تخطيط ومتابعة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى جوالة وخدمة عامة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى جوالة وخدمة عامة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى جوالة وخدمة عامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى خدمة إجتماعية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى خدمة إجتماعية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى خدمة إجتماعية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رعاية شباب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رعاية شباب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رعاية شباب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رعاية طلاب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رعاية طلاب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رعاية طلاب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون إتحادات طلاب واسر طلابية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون إتحادات طلاب واسر طلابيةثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون إتحادات طلاب واسر طلابية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون مرضى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون مرضى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون مرضى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شباب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شباب ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شباب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون هيئات خاصة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون هيئات خاصة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى شئون هيئات خاصة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى ورحلات أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى ورحلات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط إجتماعى ورحلات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط ثقافى وفنى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط ثقافى وفنى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط ثقافى وفنى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط رياضى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط رياضى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نشاط رياضى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نفسى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نفسى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى نفسى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رياضى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رياضى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى رياضى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "باحث اجتماعى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "باحث اجتماعى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "باحث اجتماعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "باحث خدمة مواطنين أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "باحث خدمة مواطنين ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "باحث خدمة مواطنين ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "كبير أخصائين رعاية شباب بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "كبير أخصائين شئون خدمات إجتماعية بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "كبير أخصائين اجتماعيين بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "كبير أخصائين رياضيين بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 12
+ },
+ {
+  "Name": "أخصائى زراعى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "أخصائى زراعى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "أخصائى زراعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "باحث شئون بيئية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "باحث شئون بيئية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "باحث شئون بيئية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "مهندس زراعى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "مهندس زراعى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "مهندس زراعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "مهندس إنتاج حيوانى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "مهندس إنتاج حيوانى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "مهندس إنتاج حيوانى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "كبيرمهندسين زراعيين بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 13
+ },
+ {
+  "Name": "أخصائى سلامة وصحة مهنية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 14
+ },
+ {
+  "Name": "أخصائى سلامة وصحة مهنية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 14
+ },
+ {
+  "Name": "أخصائى سلامة وصحة مهنية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 14
+ },
+ {
+  "Name": "صيدلى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 15
+ },
+ {
+  "Name": "صيدلى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 15
+ },
+ {
+  "Name": "صيدلى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 15
+ },
+ {
+  "Name": "كبير صيادلة بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 15
+ },
+ {
+  "Name": "أخصائى أشعة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى أشعة ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى أشعة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى تحاليل طبية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى تحاليل طبية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى تحاليل طبية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى طب يشرى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى طب يشرى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "أخصائى طب يشرى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "طبيب مقيم",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "كبير أطباء بشريين بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 16
+ },
+ {
+  "Name": "طبيب بيطرى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 17
+ },
+ {
+  "Name": "طبيب بيطرى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 17
+ },
+ {
+  "Name": "طبيب بيطرى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 17
+ },
+ {
+  "Name": "أخصائى علاج طبيعى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 17
+ },
+ {
+  "Name": "أخصائى علاج طبيعى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 18
+ },
+ {
+  "Name": "أخصائى علاج طبيعى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 18
+ },
+ {
+  "Name": "كبيرأخصائيين علاج طبيعى بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 18
+ },
+ {
+  "Name": "أخصائى إحصاء طبى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى إحصاء طبى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى إحصاء طبى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى علوم أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى علوم ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى علوم ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى تحاليل طبية أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى تحاليل طبية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى تحاليل طبية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى معمل أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى معمل ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "أخصائى معمل ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "جيولوجى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "جيولوجى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "جيولوجى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "فيزيائى صحى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "فيزيائى صحى ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "فيزيائى صحى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "كبير أخصائيين علوم بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 19
+ },
+ {
+  "Name": "اخصائى تكنولوجى الادارة الصحية و تقنيات المعلومات الادارية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى الادارة الصحية و تقنيات المعلومات الادارية ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى الادارة الصحية و تقنيات المعلومات الادارية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى تمريض اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى تمريض ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى تمريض ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى صحة المجتمع و البيئة و السلوكيات الصحية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى صحة المجتمع و البيئة و السلوكيات الصحية ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى صحة المجتمع و البيئة و السلوكيات الصحية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنلوجى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى اشعة و تصوير طبى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى اشعة و تصوير طبى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى اشعة و تصوير طبى ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى مختبرات طبية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى مختبرات طبية ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى تكنولوجى مختبرات طبية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 27
+ },
+ {
+  "Name": "اخصائى امن",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "اخصائى امن اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "اخصائى امن ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "اخصائى امن ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "رئيس قسم النظام و الدفاع المدنى",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "ظابط امن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "فرد امن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "كبير اخصائيين امن",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "مدير ادارة امن الافراد",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "مدير ادارة امن الافراد ة المنشآت",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "مدير ادارة امن المنشآت ",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "مدير ادارة الامن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "مساعد باحث",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "مشرف امن",
+  "QualityGroup_GeneralJobGradesGroupsId": 26
+ },
+ {
+  "Name": "اخصائى صناعة اسنان اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "اخصائى صناعة اسنان ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "اخصائى صناعة اسنان ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "رئيس قسم شئون العيادات الخارجية و الاستقبال و الحوادث",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "طبيب اسنان ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "طبيب اسنان اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "طبيب اسنان ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "طبيب اسنان ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "طبيب مقيم اسنان ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "كبير اطباء اسنان بدرجة مدير عام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "مدير ادارة الشئون الطبية و العلاجية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "مدير ادارة طب الاسنان ",
+  "QualityGroup_GeneralJobGradesGroupsId": 25
+ },
+ {
+  "Name": "استشارى ادارة عامة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 24
+ },
+ {
+  "Name": "استشارى ادارة مركذية  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 24
+ },
+ {
+  "Name": "استشارى قطاع ",
+  "QualityGroup_GeneralJobGradesGroupsId": 24
+ },
+ {
+  "Name": "اخصائى صيانة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الانتاج و التصنيع",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم التجهيزات",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم التدريب الهندسى",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم التعليم و التدريب ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الخدمات و الابحاث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الدراسات الفنية و دراسة جدوى",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس  قسم السيارات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الشؤن الفنية",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الصيانة",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الصيانة و التشغيل ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم المنشآت ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم الورش",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رئيس قسم صيانة الاجهزة الطبية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رسام هندسى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رسام هندسى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "رسام هندسى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "كبير مهندسين بدرجة مدير عام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة الانشاءت ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة الانشاءات و الترميمات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة الحركة و النقل ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة الشؤن الهندسية",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة الصيانة و الورش",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة المطبعة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة المنشاءات و التجهيزات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة تشغيل و صيانة وسائل النقل ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة شؤن الور ش",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مدير ادارة شؤن مركز الدراسات و البحوث الاستشارية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس مهندس اجهزة طبية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس مهندس اجهزة طبية ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس مهندس اجهزة طبية ثالث  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اتصالات الكترونية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اتصالات الكترونية كهربية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اتصالات الكترونية كهربية ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اتصالات الكترونية كهربية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس الكترونيات اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس الكترونيات ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس الكترونيات ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اشاءات اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اشاءات ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس اشاءات ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس صيانة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس صيانة ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس صيانة ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس كهرباء ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس كهرباء اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس كهرباء ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس كهرباء ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس مدنى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس مدنى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس مدنى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس نشاءات و تجهيزات اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس نشاءات و تجهيزات ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس نشاءات و تجهيزات ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس ميكانيكا اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس ميكانيكا ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "مهندس ميكانيكا ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 23
+ },
+ {
+  "Name": "اخصائى توثيق اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى توثيق ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى توثيق ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى مكتبات و وثائق ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى مكتبات و وثائق اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى مكتبات و وثائق ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى مكتبات و وثائق ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "امين مكتبة",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "امين مكتبة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "امين مكتبة ثالنى",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "امين مكتبة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "رئيس قسم المكتبة العلمية",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "كبير اخصائيين مكتبات و وثائق بدرجة مدير عام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة التزويد ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة التوثيق و المكتبة الادارية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة الفهارس ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة المراجع و خدمة القراء ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة المكتبة المركزية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة الوثائق و المكتبات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة شؤن مكتبات الكليات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "مدير ادارة مكتبة كلية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 22
+ },
+ {
+  "Name": "اخصائى شؤن قانونية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "اخصائى شؤن قانونية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "اخصائى شؤن قانونية ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "اخصائى شؤن قانونية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "باحث قانونى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "باحث قانونى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "باحث قانونى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "كبير اخصائيين شؤن قانونية بدرجة مدير عام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "كبير باحثيين بدرجة مدير عام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "محام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "محام ممتاز ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "محامى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة البحوث القانونية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة التحقيقات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة التحقيقات و التاديب ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة الؤن القانونية بالمستشفيات  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة القانونية بمركز الكلى و المسالك ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة الشئون القانونية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة الشكاوى و التظلمات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة العقود مدير ادارة الفتاوى و اللوائح ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة الفتوى و العقود ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة القضايا و التنفيذ و الحجز الادارى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "مدير ادارة قانونية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 21
+ },
+ {
+  "Name": "اخصائى تربية موسيقية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى تربية موسيقية ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى تربية موسيقية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ترميم اثار اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ترميم اثار ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ترميم اثار ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "خصائى تصوير اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "خصائى تصوير ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "خصائى تصوير ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى تصوير ميكانيكى و طباعة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى تصوير ميكانيكى و طباعة ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى تصوير ميكانيكى و طباعة ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكورات",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكورات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكورات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكورات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون تشكيلية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون تشكيلية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون تشكيلية ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون تشكيلية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون مسرحية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون مسرحية ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى فنون مسرحية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى متاحف ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى متاحف و وسائل تعليمية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى متاحف و وسائل تعليمية ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى متاحف و وسائل تعليمية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشاط فنى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشاط فنى ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشاط فنى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشر ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشر اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشر ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى نشر ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "امين متحف و معلومات فنية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "امين متحف و معلومات فنية ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "امين متحف و معلومات فنية ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكور اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكور ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "اخصائى ديكور ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "رئيس قسم الرسم و التصميم ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "رئيس قسم المتحف و المعلومات الفنية",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "رئيس قسم شئون المقر ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "كبير اخصائيين فنون بدرجة مدير عام ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مترجم اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مترجم ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مدير ادارة المتاحف و الوسائل التعليمية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مدير ادارة المنشاءات الجامعية لغير الطلاب ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مدير ادارة النشر ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مدير ادارة شئون المقر ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مصمم اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مصمم ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مصمم ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مصمم ديكور اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مصمم ديكور ثانى  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "مصمم ديكور ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 20
+ },
+ {
+  "Name": "فنى تمريض اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مختبرات طبية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مختبرات طبية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مختبرات طبية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مختبرات طبية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "مساعد تمريض",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "زائرة صحىية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "زائرة صحية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "زائره صحية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اشعة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اشعة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اشعة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اشعة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اشعة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اسعاف اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اسعاف تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اسعاف تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى اسعاف رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى بصريات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى بصريات تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى بصريات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى يصريات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تحاليل طبية",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تحاليل طبية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تحاليل طبية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تحاليل طبية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تحاليل طبية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تخدير اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تخدير تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تخدير تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تخدير رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تسجيل طبى واحصاء ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تسجيل طبى واحصاء اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تسجيل طبى واحصاء تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تسجيل طبى واحصاء تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تسجيل طبى واحصاء رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تصوير طبى",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تصوير طبى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تصوير طبى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تصوير طبى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تصوير طبى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تعقيم اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تعقيم تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تعقيم تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تعقيم رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض وصحه عامة",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض وصحة عامة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض وصحه عامة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض وصحة عامة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى تمريض وصحة عامة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى خدمات طبية عاجلة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى خدمات طبية عاجلة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى خدمات طبية عاجلة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى خدمات  طبية عاجلة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صناعة اسنان",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صناعة اسنان اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صناعة اسنان تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صناعة اسنان تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صناعة اسنان رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صيانة اجهزة طبية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صيانة اجهزه طبية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صيانه اجهزة طبية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى صيانة اجهزة طبية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى عظام اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى عظام تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى عظام تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى عظام رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مراقبة صحية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مراقبة صحية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مراقبة صحية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مراقبة صحية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "فنى مراقبة صحية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "كبير فنيين اشعة بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "كبير فنيين تسجيل طبى واحصاء",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "كبير فنيين تمريض بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "كبير فنيين صناعة اسنان ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "مساعد تمريض وصحة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": " مساعد تمريض وصحة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "مساعد تمريض وصحة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "مساعد تمريض وصحة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 28
+ },
+ {
+  "Name": "رائدة ريفية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "رائدة ريفية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "رائدة ريفية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "رائدة ريفية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى اجتماعى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى اجتماعى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى اجتماعى تالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى اجتماعى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى رياضية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى رياضية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى رياضية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى رياضية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى شباب اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى شباب تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى شباب تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى شباب رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "كبير مشرفين اجتماعين بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى واقامة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى واقامة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى واقامة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى واقامة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف اجتماعى واقامة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف تسكين واقامة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف تسكين واقامة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف تسكين واقامة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف تسكين واقامة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف تسكين واقامة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف رياضى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف رياضى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف رياضى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "مشرف رياضى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 29
+ },
+ {
+  "Name": "فنى تغذية اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى تغذية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى تغذية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى تغذية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى تغذية خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة وتغذية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة وتغذية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة وتغذية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة وتغذية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "فنى زراعة خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "كبير فنيين تغذية بدرجة مديرعام",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "كبير فنيين زراعه وتغذية بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف تغذية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف تغذية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف تغذية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف تغذية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف تغذية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف زراعى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف زراعى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف زراعى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف زراعى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "مشرف زراعى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 30
+ },
+ {
+  "Name": "خطاط اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "خطاط تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "خطاط تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "خطاك رابع ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "خطاط خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "رئيس قسم الطباعة والتصوير",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى انشاءات معمارية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى انشاءات معمارية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى انشاءات معمارية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى انشاءات معمارية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تريكو اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تريكو تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تريكو تالت ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تريكو رابع ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير تالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "غنى تصوير طبى",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير طبى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير طبى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير طبى تالت",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير طبى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير فوتوغرافى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير فوتوغرافى تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير فوتوغرافى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى تصوير فوتوغرافى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى ديكور",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى ديكور اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى ديكور تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى ديكور تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى ديكور رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى سباكة صحيةاول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى سباكة صحية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى سباكة صحيةتالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى سباكة صحية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى طباعة وتصويراول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى طباعة وتصوير تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى طباعة وتصوير تالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى طباعة وتصوير رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مبان اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مبان تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مبنان تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مبان رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مساحة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مساحة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مساحة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى مساحة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى نجارة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى نجارة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى نجارة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى نجارة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى دهانات اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "غفنى دهانات تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى دهانات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "فنى دهانات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "كبير فنيين فنون وعمارة بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 31
+ },
+ {
+  "Name": "امين مخزن فنى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "امين مخزن فنى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "امين مخزن فنى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "امين مخزن فنى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "رئيس قسم الشئون الفنية",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "رئيس قسم الورش",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى اصلاح اجهزه اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى اصلاح اجهزه تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى اصلاح اجهزه تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى اصلاح اجهزه رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى إلكترونيات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى إلكترونيات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى إلكترونيات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى إلكترونيات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى إنشاءات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى انشاءات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى انشاءات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى انشاءات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تبريدوتكييف",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تبريد وتكييف اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تبريد وتكييف تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تبريد وتكييف تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تبريد وتكييف رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنتى تشغيل تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى سباكة",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى سباكة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى سباكة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى سباكة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى سباكة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شئون هندسية",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شئون هندسية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شئون هندسية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شئون هندسية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شئون هندسية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شبكات",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شبكات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شبكات تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شبكات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى شبكات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صناعى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صناعى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صناعى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صناعى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة اجهزة طبية ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانه اجهزة طبية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة اجهزة طبية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة اجهزة طبية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة وتشغيل",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة وتشغيل اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة وتشغيل تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة وتشغيل تالت",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة وتشغيل رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى كهرباء اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى كهرباء تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى كهرباء تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى كهرباء رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى مخزن اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى مخزن تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى مخزن تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى مخزن رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى ميكانيكا اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى ميكانيكا تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى ميكانيكا تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى ميكانيكا رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل وصيانة واصلاح اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل وصيانة واصلاح تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل وصيانة واصلاح تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى تشغيل وصيانه واصلاح رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى صيانة اجهزة طبية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "مشرف فنى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "مشرف فنى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "مشرف فنى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "مشرف فنى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 32
+ },
+ {
+  "Name": "فنى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى خدمات اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى خدمات تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى خدمات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "فنى خدمات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 33
+ },
+ {
+  "Name": "امين معمل اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "امين معمل تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "امين معمل تالت ",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "امين معمل رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "فنى معمل ",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "فنى معمل اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "فنى معمل تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "فنى معمل تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "فنى معمل رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 34
+ },
+ {
+  "Name": "فرد امن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 35
+ },
+ {
+  "Name": "مشرف امن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 35
+ },
+ {
+  "Name": "مساعد باحث",
+  "QualityGroup_GeneralJobGradesGroupsId": 35
+ },
+ {
+  "Name": "كبير اخضائين امن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 35
+ },
+ {
+  "Name": "مساعد خدمات صحية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 36
+ },
+ {
+  "Name": "مساعد خدمات صحية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 36
+ },
+ {
+  "Name": "مساعد خدمات صحية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 36
+ },
+ {
+  "Name": "مساعد خدمات صحية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 36
+ },
+ {
+  "Name": "كاتب أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب رابع ",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب مخازن ومشتريات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب مخازن ومشتريات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب مخازن ومشتريات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب مخازن ومشتريات رابع ",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب مخازن ومشتريات خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب نسخ وطباعة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب نسخ وطباعة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب نسخ وطباعة تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب نسخ وطباعة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "كاتب نسخ وطباعة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "مساعد كاتب",
+  "QualityGroup_GeneralJobGradesGroupsId": 37
+ },
+ {
+  "Name": "أمين بيانات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "أمين بيانات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "أمين بيانات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين قاعة أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "أمين قاعة تاني",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "أمين قاعة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين مخزن",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين مخزن اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين مخزن تاني",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين مخزن ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين محزن رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين مخزن رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "امين مخزن خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "رئيس قسم الخدمات الادارية",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "رئيس قسم الخزنة",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "رئيس قسم النظافة",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "سكرتير اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "سكرتير تاني",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "سكرتير تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "سكرتير رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "سكرتير خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "صراف",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "صراف اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "صراف تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "صراف تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "صراف رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "صراف خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "فرد امن",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب أله كاتبه",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب أله كاتبه اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب أله كاتبه تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب أله كاتبه ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب أله كاتبه رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب ألة كاتبة خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب حسابات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب حسابات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب حسابات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب حسابات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب سكرتارية ومحفوظات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب سكرتارية ومحفوظات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب سكرتاريه ومحفوظات تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب سكرتاريه ومحفوظات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب سكرتاريه ومحفوظات خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب سكرتارية ومحفوظات ",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون افراد اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون افراد تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون افراد تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون افراد رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون إدارية",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون إدارية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون إدارية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون إدارية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون إدارية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون إدارية خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون تعليم دراسات عليااول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون تعليم دراسات علياتانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون تعليم دراسات عليا تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون تعليم دراسات عليا رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خدمات داخلية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خدمات داخلية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خدمات داخلية ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خدمات داخلية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خدمات داخلية خامس",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خزينة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خزينة تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خزينة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون خزينة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون عاملين اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون عاملين تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون عاملين تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون عاملين رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون عامة",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية تاني",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية وإدارية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية وإدارية تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية وإدارية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مالية وإدارية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مخزنية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مخزنية تانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مخزنية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب شئون مخزنية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب ضمان الجودة",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب نسخ وطباعة",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب نسخ وطباعة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب نسخ وطباعة تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب نسخ وطباعة تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كاتب نسخ وطباعة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كبير كتاب بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كبير كتاب سكرتارية ومحفوظات",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كبير كتاب شئون مالية",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كبير كتاب شئون إدارية",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "كبير كتاب شئون مالية وإدارية بدرجة مدير عام",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مدخل بيانات اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مدخل بيانات تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مدخل بيانات ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مدخل بيانات رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مدير إداره الخدمات الادارية",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مدير إدارة الخدمات العامة والنظام",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مساعد إدارى خدمات طبية اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مساعد إدارى خدمات طبيةتانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مساعد إدارى خدمات طبية تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مساعد إدارى خدمات طبية رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف امن اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف امن تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف امن تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف امن رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف خدمات عامة اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف خدمات عامة تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف خدمات عامة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف خدمات عامة رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "معاون نظام اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "معاون نظام تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "معاون نظام تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "معاون نظام رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 39
+ },
+ {
+  "Name": "مشرف أمن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف أمن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف أمن اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف أمن تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف أمن تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف أمن رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف حراسة ودفاع مدنى أول",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف حراسة ودفاع مدنى تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف حراسة ودفاع مدنى تالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "مشرف حراسة ودفاع مدنى رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "معاون أمن اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "معاون أمن تاتى",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "معاون أمن تالت",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "معاون أمن رابع",
+  "QualityGroup_GeneralJobGradesGroupsId": 38
+ },
+ {
+  "Name": "تومرجى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "تومرجى اول  ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "تومرجى تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "تومرجى بيطرى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "تومرجى ممتاز",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "حارس امن اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "حارس امن ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "حارس امن ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "حارس امن ممتاز",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "حارس امن",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "رئيس تومرجية",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "رئيس سفرجية",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "رئيس عمال حراسة و دفاع مدنى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "رئيس عمال خدمة",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "سفرجى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "سفرجى اول",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "سفرجى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "سفرجى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "سفرجى مماز ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال اعداد ملاعب ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال  اعداد ملاعب اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال  اعداد ملاعب ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال  اعداد ملاعب ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال اعداد ملاعب ممتاز ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال تجميع يدوى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال تجميع يدوى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال تجميع يدوى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال حراسة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال حراسة و دفاع مدنى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال حراسة و دفاع مدنى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عمال حراسة و دفاع مدنى ممتاز ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل خدمات معاونة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل خدمة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل صيانة آلات اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل صيانة آلات ثانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل صيانة آلات ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل نظافة ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل نظافة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل نظافة تانى",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل نظافة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "عامل نظافة ممتاز ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "فرد امن ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون حراسة",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون خدمة",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون خدمة اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون خدمة ثان ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون خدمة ثالث",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون خدمة رابع ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون خدمة ممتاز",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معون زراعى اول ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون زراعى ثانى ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون زراعى ثالث ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ },
+ {
+  "Name": "معاون زراعى ممتاز ",
+  "QualityGroup_GeneralJobGradesGroupsId": 42
+ }
+]

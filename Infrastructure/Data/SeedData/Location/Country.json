@@ -1,0 +1,159 @@
+/*
+
+	Created By    : Eslam Elkhouly
+	Modified By   :
+	Created Data  : 12/06/2023
+	Modified Date :
+	Purpose       : Json data to be seed to Country table in Db
+
+
+*/
+[
+  {
+    "Country_Name_AR": "مصر",
+    "Country_Name_EN": "Egypt",
+    "Nationality_Id": 1,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "الجزائر",
+    "Country_Name_EN": "Algeria",
+    "Nationality_Id": 2,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "تونس",
+    "Country_Name_EN": "Tunisia",
+    "Nationality_Id": 5,
+    "Continent_Id": 3,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "المغرب",
+    "Country_Name_EN": "Morocco",
+    "Nationality_Id": 4,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "ليبيا",
+    "Country_Name_EN": "Libya",
+    "Nationality_Id": 5,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "الصومال",
+    "Country_Name_EN": "Somalia",
+    "Nationality_Id": 6,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "موريتانيا",
+    "Country_Name_EN": "Mauritania",
+    "Nationality_Id": 7,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "السودان",
+    "Country_Name_EN": "Sudan",
+    "Nationality_Id": 8,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "البحرين",
+    "Country_Name_EN": "Bahrain",
+    "Nationality_Id": 9,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "الاردن",
+    "Country_Name_EN": "Jordan",
+    "Nationality_Id": 10,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "تركيا",
+    "Country_Name_EN": "Turkey",
+    "Nationality_Id": 11,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "العراق",
+    "Country_Name_EN": "Iraq",
+    "Nationality_Id": 12,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "سوريا",
+    "Country_Name_EN": "Syria",
+    "Nationality_Id": 13,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "اليمن",
+    "Country_Name_EN": "Yemen",
+    "Nationality_Id": 14,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "قطر",
+    "Country_Name_EN": "Qatar",
+    "Nationality_Id": 15,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "الجمهورية اللبنانية",
+    "Country_Name_EN": "Lebanon",
+    "Nationality_Id": 16,
+    "Continent_Id": 2,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "فلسطين",
+    "Country_Name_EN": "Palestine",
+    "Nationality_Id": 17,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "الكويت",
+    "Country_Name_EN": " Kuwait",
+    "Nationality_Id": 18,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "المملكة العربية السعودية",
+    "Country_Name_EN": "Saudi Arabia",
+    "Nationality_Id": 19,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "سلطنة عمان",
+    "Country_Name_EN": "Oman",
+    "Nationality_Id": 20,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Country_Name_AR": "الامارات",
+    "Country_Name_EN": "United Arab Emirates",
+    "Nationality_Id": 21,
+    "Continent_Id": 1,
+    "IsDeleted": false
+  }
+]

@@ -1,0 +1,201 @@
+/*
+
+	Created By    : Eslam Elkhouly
+	Modified By   :
+	Created Data  : 12/06/2023
+	Modified Date :
+	Purpose       : Json data to be seed to Governate table in Db
+
+
+*/
+[
+  {
+    "Governate_Name_AR": "القاهرة",
+    "Governate_Name_EN": "Cairo",
+    "Governate_Code": 1,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الإسكندرية",
+    "Governate_Name_EN": "Alexandria",
+    "Governate_Code": 2,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "بورسعيد",
+    "Governate_Name_EN": "\nPort Said",
+    "Governate_Code": 3,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "السويس",
+    "Governate_Name_EN": "Suez",
+    "Governate_Code": 4,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "دمياط",
+    "Governate_Name_EN": "Damietta",
+    "Governate_Code": 11,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الدقهلية",
+    "Governate_Name_EN": "Dakahlia",
+    "Governate_Code": 12,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الشرقية",
+    "Governate_Name_EN": "Sharqia",
+    "Governate_Code": 13,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "القليبوبية",
+    "Governate_Name_EN": "Qalyubia",
+    "Governate_Code": 14,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "كفر الشيخ",
+    "Governate_Name_EN": "Kafr el-Sheikh",
+    "Governate_Code": 15,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الغربية",
+    "Governate_Name_EN": "Gharbia",
+    "Governate_Code": 16,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "المنوفية",
+    "Governate_Name_EN": "Monufia",
+    "Governate_Code": 17,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "البحيرة",
+    "Governate_Name_EN": "Beheira",
+    "Governate_Code": 18,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الإسماعيلية",
+    "Governate_Name_EN": "Ismailia",
+    "Governate_Code": 19,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الجيزة",
+    "Governate_Name_EN": "Giza",
+    "Governate_Code": 21,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "بنى سويف",
+    "Governate_Name_EN": "Beni Suef",
+    "Governate_Code": 22,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الفيوم",
+    "Governate_Name_EN": "Fayoum",
+    "Governate_Code": 23,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "المنيا",
+    "Governate_Name_EN": "Minya",
+    "Governate_Code": 24,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "أسيوط",
+    "Governate_Name_EN": "Asyut",
+    "Governate_Code": 25,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "سوهاج",
+    "Governate_Name_EN": "Sohag",
+    "Governate_Code": 26,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "قنا",
+    "Governate_Name_EN": "Qena",
+    "Governate_Code": 27,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "أسوان",
+    "Governate_Name_EN": "Aswan",
+    "Governate_Code": 28,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الأقصر",
+    "Governate_Name_EN": "Luxor",
+    "Governate_Code": 29,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "البحر الأحمر",
+    "Governate_Name_EN": "Red Sea",
+    "Governate_Code": 31,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "الوادى الجديد",
+    "Governate_Name_EN": "New Valley",
+    "Governate_Code": 32,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "مطروح",
+    "Governate_Name_EN": "Matruh",
+    "Governate_Code": 33,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "شمال سيناء",
+    "Governate_Name_EN": "North Sinai",
+    "Governate_Code": 34,
+    "Country_Id": 1,
+    "IsDeleted": false
+  },
+  {
+    "Governate_Name_AR": "جنوب سيناء",
+    "Governate_Name_EN": "South Sinai",
+    "Governate_Code": 35,
+    "Country_Id": 1,
+    "IsDeleted": false
+  }
+]

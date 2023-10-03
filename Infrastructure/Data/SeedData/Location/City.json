@@ -1,0 +1,2385 @@
+/*
+
+	Created By    : Eslam Elkhouly
+	Modified By   :
+	Created Data  : 12/06/2023
+	Modified Date :
+	Purpose       : Json data to be seed to City table in Db
+
+
+*/
+[
+  {
+    "City_Name_AR": "ادفو",
+    "City_Name_EN": null,
+    "Governate_Id": 21,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اسوان",
+    "City_Name_EN": null,
+    "Governate_Id": 21,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دراو",
+    "City_Name_EN": null,
+    "Governate_Id": 21,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كوم امبو",
+    "City_Name_EN": null,
+    "Governate_Id": 21,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "نصر",
+    "City_Name_EN": null,
+    "Governate_Id": 21,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "ابنوب",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ابو تيج",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اسيوط",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "البدارى",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الغنايم",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الفتح",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القوصية",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ديروط",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ساحل سليم",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "صدفا",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "منفلوط",
+    "City_Name_EN": null,
+    "Governate_Id": 18,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الأسكندرية",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "الابراهيمه",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الجمرك",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الدخيله",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "الرمل",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العامرية",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العطارين",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنتزة",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنتزه",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الورديان",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "برج العرب",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سموحه",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سيدى جابر",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سيدي جابر",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "شرق",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "غبريال",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "غرب",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "غيط العنب",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الجمرك",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم الرمل",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم باب شرق",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم محرم بك",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كامب شيراز",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كامب شيزار",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "كرموز",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "محرم بك",
+    "City_Name_EN": "",
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "وسط",
+    "City_Name_EN": null,
+    "Governate_Id": 2,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الاسماعيلية",
+    "City_Name_EN": null,
+    "Governate_Id": 13,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "التل الكبير",
+    "City_Name_EN": null,
+    "Governate_Id": 13,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القنطرة شرق",
+    "City_Name_EN": null,
+    "Governate_Id": 13,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القنطرة غرب",
+    "City_Name_EN": null,
+    "Governate_Id": 13,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "فايد",
+    "City_Name_EN": null,
+    "Governate_Id": 13,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "مدينة الاقصر",
+    "City_Name_EN": null,
+    "Governate_Id": 22,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز الاقصر",
+    "City_Name_EN": null,
+    "Governate_Id": 22,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الشلاتين",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العين السخنة",
+    "City_Name_EN": "",
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الغردقة",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القصير",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "جمصة",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "رأس  غارب",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سفاجا",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مرسى علم",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "وادى كريم و الدباح",
+    "City_Name_EN": null,
+    "Governate_Id": 23,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "ابو المطامير",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ابوحمص",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ادكو",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "البحيرة",
+    "City_Name_EN": "Beheira",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الدلنجات",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الرحمانية",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المحمودية",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ايتاى البارود",
+    "City_Name_EN": "etay elabrod",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "حوش عيسى",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دمنهور",
+    "City_Name_EN": "Damanhour",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "رشيد",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شبراخيت",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم ابوحمص",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم الدلنجات",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم الرحمانيه",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم السادات",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم المحموديه",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم ايتاى البارود",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم دمنهور",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم دمنهور (بندر)",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم شبراخيت",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم كفر الدوار",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم كوم حمادة",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "كفر الدوار",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كوم حمادة",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز الدلنجات",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز المحمودية",
+    "City_Name_EN": "Itali",
+    "Governate_Id": 12,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "مركز ايتاى البارود",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز بدر",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز دمنهور",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز شبراخيت",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز كوم حماده",
+    "City_Name_EN": "",
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "وادى النطرون",
+    "City_Name_EN": null,
+    "Governate_Id": 12,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "أمبابة",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "إمبابة",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "اطفيح",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "البدرشين",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الجيـزة",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الجيزة-2",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الدقي",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الصف",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العياط",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المهندسين",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الواحات البحرية",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الوراق",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اوسيم",
+    "City_Name_EN": null,
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بولاق الدكرور",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم اطفيح",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم البدرشين",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الجيزة",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الدقى",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم العجوزة",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم امبابة",
+    "City_Name_EN": "",
+    "Governate_Id": 14,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "اجا",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الجمالية",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السنبلاوين",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المطرية",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنزلة",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنصورة",
+    "City_Name_EN": "Almansoura",
+    "Governate_Id": 6,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "المنصوره ثان",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بلقاس",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بنى عبيد",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "تمى الامديد",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دكرنس",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شربين",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طلخا",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم المنصورة",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم دكرنس",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم منية النصر",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز اجا",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز السنبلاوين",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز المنصورة",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز دكرنس",
+    "City_Name_EN": "",
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "منية النصر",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ميت سلسيل",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ميت غمر",
+    "City_Name_EN": null,
+    "Governate_Id": 6,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الاربعين",
+    "City_Name_EN": null,
+    "Governate_Id": 4,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الجناين",
+    "City_Name_EN": null,
+    "Governate_Id": 4,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السويس",
+    "City_Name_EN": null,
+    "Governate_Id": 4,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "عتاقة",
+    "City_Name_EN": null,
+    "Governate_Id": 4,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "فيصل",
+    "City_Name_EN": null,
+    "Governate_Id": 4,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم السويس",
+    "City_Name_EN": "",
+    "Governate_Id": 4,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ابو كبير",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الابراهيمية",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الحسينية",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الزقازيق",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القنايات",
+    "City_Name_EN": "",
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اولاد صقر",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بلبيس",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ديرب نجم",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "فاقوس",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم فاقوس",
+    "City_Name_EN": "",
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كفر صقر",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز ابو حماد",
+    "City_Name_EN": "Arab Republic of ENypt",
+    "Governate_Id": 7,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "مركز ابوحماد",
+    "City_Name_EN": "",
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز الزقازيق",
+    "City_Name_EN": "",
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز بلبيس",
+    "City_Name_EN": "",
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركزبلبيس",
+    "City_Name_EN": "",
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مشتول السوق",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "منيا القمح",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ههيا",
+    "City_Name_EN": null,
+    "Governate_Id": 7,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "طنطا",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المحلة الكبرى",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كفر الزيات",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "زفتى",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السنطة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قطور",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بسيون",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سمنود",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم اول طنطا",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم ثان طنطا",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم م طنطا",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم اول المحلة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم ثان المحلة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم م المحلة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم سمنود",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم زفتى",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم السنطة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم بسيون",
+    "City_Name_EN": ",,
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم كفرالزيات",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم قطور",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الغربية",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز كفرالزيات",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طنطا ثان",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز قطور",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز المحله الكبرى",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز بسيون",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز طنطا",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز السنطة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز زفتى",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز سمنود",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المحلة ثان",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المحلة أول",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طنطا أول",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز المنصورة",
+    "City_Name_EN": "",
+    "Governate_Id": 10,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "ابشواى",
+    "City_Name_EN": null,
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اطسا",
+    "City_Name_EN": null,
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الفيوم",
+    "City_Name_EN": null,
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سنورس",
+    "City_Name_EN": null,
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طامية",
+    "City_Name_EN": null,
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الفيوم بندر",
+    "City_Name_EN": "",
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم سنورس",
+    "City_Name_EN": "",
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "يوسف الصديق",
+    "City_Name_EN": null,
+    "Governate_Id": 16,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الشرابية",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الساحل",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الزيتون",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "روض الفرج",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شبرا",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "حدائق القبة",
+    "City_Name_EN": "Cairo",
+    "Governate_Id": 1,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "الزاوية  الحمراء",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مصرالجديدة",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المطرية",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السلام",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شرق مدينة نصر",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "عين شمس",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المرج",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "النزهة",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "غرب مدينة نصر",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "وسط القاهرة",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الوايلى",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "غرب القاهرة",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "عابدين",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "منشأة ناصر",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "باب الشعرية",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الموسكى",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الخليفة والمقطم",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مصرالقديمة",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "حلوان",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المعادى",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "التبين",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "البساتين ودار السلام",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السيدة زينب",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "15 مايو",
+    "City_Name_EN": null,
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المهندسين",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنيل",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المقطم",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "مدينة نصر",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "العاشر من رمضان",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الدراسه",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القاهرة",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القاهره الجديده",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "امبابة",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الدرب الأحمر",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مدينة الشروق",
+    "City_Name_EN": "",
+    "Governate_Id": 1,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الخانكة",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "القناطر الخيرية",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بنها",
+    "City_Name_EN": "kalyobiya",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شبرا الخيمة",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شبين القناطر",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طوخ",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم القناطر الخيرية",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم بنها (بندر)",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم بنها (مركز)",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم طوخ",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قسم كفر شكر",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "قليوب",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قليوب (بندر)",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قليوب (مركز)",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كفر  شكر",
+    "City_Name_EN": null,
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز بنها",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز قليوب",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز كفر شكر",
+    "City_Name_EN": "",
+    "Governate_Id": 8,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اشمون",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الباجور",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السادات",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الشهداء",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنوفية",
+    "City_Name_EN": "Monofiya",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بركة السبع",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "تلا",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شبين الكوم",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم اشمون",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الباجور",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الشهدا",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم اللسادات",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم بركة السبع",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم تلا",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم سرس اللبان",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم شبين الكوم",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم قويسنا",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم م شبين الكوم",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم منوف",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قويسنا",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز السادات",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز الشهداء",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز بركة السبع",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز تلا",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز شبين الكوم",
+    "City_Name_EN": "",
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "منوف",
+    "City_Name_EN": null,
+    "Governate_Id": 11,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "إلمنيا",
+    "City_Name_EN": "",
+    "Governate_Id": 17,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "ابو قرقاص",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العدوة",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بنى مزار",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ديرمواس",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سمالوط",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مطاى",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مغاغة",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ملوى",
+    "City_Name_EN": null,
+    "Governate_Id": 17,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الخارجة",
+    "City_Name_EN": null,
+    "Governate_Id": 24,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الداخلة",
+    "City_Name_EN": null,
+    "Governate_Id": 24,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الفرافرة",
+    "City_Name_EN": null,
+    "Governate_Id": 24,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الوادي الجديد",
+    "City_Name_EN": "",
+    "Governate_Id": 24,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الفشن",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الواسطى",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اهناسيا",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ببا",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بنى سويف",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سمسطا",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ناصر",
+    "City_Name_EN": null,
+    "Governate_Id": 15,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الجنوب",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الزهور",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الشرق",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الضواحى",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العرب",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المناخ",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بور سعيد",
+    "City_Name_EN": "",
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بور فؤاد",
+    "City_Name_EN": null,
+    "Governate_Id": 3,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ابو رديس",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ابو زنيمة",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دهب",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "رأس سدر",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سانت كاترين",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "شرم الشيخ",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طور سيناء",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "نويبع",
+    "City_Name_EN": null,
+    "Governate_Id": 27,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الزرقا",
+    "City_Name_EN": null,
+    "Governate_Id": 5,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دمياط",
+    "City_Name_EN": null,
+    "Governate_Id": 5,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "فارسكور",
+    "City_Name_EN": null,
+    "Governate_Id": 5,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم دمياط (بندر)",
+    "City_Name_EN": "",
+    "Governate_Id": 5,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم راس البر",
+    "City_Name_EN": "",
+    "Governate_Id": 5,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كفر سعد",
+    "City_Name_EN": null,
+    "Governate_Id": 5,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اخميم",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "البلينا",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المراغة",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "المنشاة",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "جرجا",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "جهينة",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دارالسلام",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ساقلتة",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سوهاج",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طما",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "طهطا",
+    "City_Name_EN": null,
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم سوهاج",
+    "City_Name_EN": "",
+    "Governate_Id": 19,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "الحسنة",
+    "City_Name_EN": null,
+    "Governate_Id": 26,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الشيخ زويد",
+    "City_Name_EN": null,
+    "Governate_Id": 26,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العريش",
+    "City_Name_EN": null,
+    "Governate_Id": 26,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بئر العبد",
+    "City_Name_EN": null,
+    "Governate_Id": 26,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "رفح",
+    "City_Name_EN": null,
+    "Governate_Id": 26,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "نخل",
+    "City_Name_EN": null,
+    "Governate_Id": 26,
+    "IsDeleted": 1
+  },
+
+  {
+    "City_Name_AR": "ابو تشت",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "ارمنت",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "اسنا",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الوقف",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دشنا",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "فرشوط",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قفط",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قنا",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قوص",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "نجع حمادى",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "نقادة",
+    "City_Name_EN": null,
+    "Governate_Id": 20,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الحامول",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الرياض",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بلطيم",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بندر كفرالشيخ",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "بيلا",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "دسوق",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سخا",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سيدى سالم",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "فوه",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم  البرلس",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الحامول",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم الرياض",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم بيلا",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم دسوق",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم سيدى سالم",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم فوة",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم قلين",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم كفرالشيخ",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم م كفر الشيخ",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم مطوبس",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قلين",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "كفر الشيخ",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 0
+  },
+  {
+    "City_Name_AR": "مركز الرياض",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز قلين",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مركز كفر الشيخ",
+    "City_Name_EN": "",
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "مطوبس",
+    "City_Name_EN": null,
+    "Governate_Id": 9,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": " مرسى مطروح",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الحمام",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "السلوم",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "الضبعة",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "العلمين",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "النجيلة",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سيدى برانى",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "سيوة",
+    "City_Name_EN": null,
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  },
+  {
+    "City_Name_AR": "قسم مطروح",
+    "City_Name_EN": "",
+    "Governate_Id": 25,
+    "IsDeleted": 1
+  }
+]

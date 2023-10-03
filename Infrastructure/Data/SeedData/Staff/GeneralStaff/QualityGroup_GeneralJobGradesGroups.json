@@ -1,0 +1,234 @@
+[
+  {
+    "Name": "Test",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الآثار",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الأمن الصناعى",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الاحصاء والحاسبات",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الاعلام",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "التعليم ",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "التغذية والتدبير المنزلى",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "التمريض العالى",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "التمويل والمحاسبة",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "التنمية الادارية",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الحاسبات والمعلومات",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الخدمات الاجتماعية",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الزراعة",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "السلامة واللصحة المةنية",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الصيدلة",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الطب البشرى ",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الطب البطيرى",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "العلاج الطبيعى",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "العلوم ",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الفنون ",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "القانون",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "المكتبات والوثائق",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الهندسة",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الوظائف الاستشارية",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "طب الاسنان",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "الامن ",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "وظائف تكنولوجيا العلوم الصحية والتطبيقية",
+    "GeneralJobGradesGroupsId": 1
+  },
+  {
+    "Name": "التمريض والصحة",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "الخدمات الاجتماعية",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "الزراعة والتغذية",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "الفنون والعمارة",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "الهندسة المساعدة",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "الوظائف  لغير المؤهلين",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "فنى معمل",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "وظائف الامن",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "وظائف مساعدى الخدمات الصحية",
+    "GeneralJobGradesGroupsId": 2
+  },
+  {
+    "Name": "التمريض والصحة",
+    "GeneralJobGradesGroupsId": 3
+  },
+  {
+    "Name": "الحركة والنقل",
+    "GeneralJobGradesGroupsId": 3
+  },
+  {
+    "Name": "الزراعة والتغذية",
+    "GeneralJobGradesGroupsId": 3
+  },
+  {
+    "Name": "الفنون والعمارة",
+    "GeneralJobGradesGroupsId": 3
+  },
+  {
+    "Name": "الورش والالات",
+    "GeneralJobGradesGroupsId": 3
+  },
+  {
+    "Name": "ملاحظ ميكانيكى سيارات وموتسيكلات",
+    "GeneralJobGradesGroupsId": 3
+  },
+  {
+    "Name": "خدمات المعاونة",
+    "GeneralJobGradesGroupsId": 4
+  },
+  {
+    "Name": "الكتية الغير مؤهلين",
+    "GeneralJobGradesGroupsId": 5
+  },
+  {
+    "Name": "وظائف الامن",
+    "GeneralJobGradesGroupsId": 5
+  },
+  {
+    "Name": "المكتبية",
+    "GeneralJobGradesGroupsId": 5
+  },
+  {
+    "Name": "رئيس الجامعة",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "نائب رئيس الجامعة لشئون الطلاب",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "نائب رئيس الجامعة لشئون الدراسات العليا",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "نائب رئيس الجامعة لشئون خدمة المجتمع وتنمية البيئة",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "امين الجامعة",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "امين الجامعة المساعد للشئون المالية",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "امين الجامعة المساعد للشئون  الادارية",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "امين الجامعة المساعد لشئون قطاع التعليم والطلاب",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "عميد الكلية",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "امين الكلية",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "مدير عام المشروعات البيئية",
+    "GeneralJobGradesGroupsId": 6
+  },
+  {
+    "Name": "مدير عام خدمة المواطنين",
+    "GeneralJobGradesGroupsId": 6
+  }
+]

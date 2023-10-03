@@ -1,0 +1,117 @@
+/*
+
+	Created By    : Eslam Elkhouly
+	Modified By   :
+	Created Data  : 12/06/2023
+	Modified Date :
+	Purpose       : Json data to be seed to Nationality table in Db
+
+
+*/
+[
+  {
+    "Nationality_Name_AR": "مصري",
+    "Nationality_Name_EN": "Egyptian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "جزائرى",
+    "Nationality_Name_EN": "Algerian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "تونسى",
+    "Nationality_Name_EN": "Tunisian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "مغربى",
+    "Nationality_Name_EN": "Moroccan",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "ليبى",
+    "Nationality_Name_EN": "Libyan",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "صومالى",
+    "Nationality_Name_EN": "Somali",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "موريتاني",
+    "Nationality_Name_EN": "Mauritanian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "سودانى",
+    "Nationality_Name_EN": "Sudanese ",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "بحرينى",
+    "Nationality_Name_EN": "Bahraini",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "أردنى",
+    "Nationality_Name_EN": "Jordanian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "تركى",
+    "Nationality_Name_EN": "Turkish",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "عراقى",
+    "Nationality_Name_EN": "Iraqi",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "سورى",
+    "Nationality_Name_EN": "Syrian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "يمنى",
+    "Nationality_Name_EN": "Yemeni",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "قطرى",
+    "Nationality_Name_EN": "Qatari",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "لبنانى",
+    "Nationality_Name_EN": "Lebanese",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "فلسطينى",
+    "Nationality_Name_EN": "Palestinian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "كويتى",
+    "Nationality_Name_EN": "Kuwaiti",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "سعودى",
+    "Nationality_Name_EN": "Saudi Arabian",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "عمانى",
+    "Nationality_Name_EN": "Omani",
+    "IsDeleted": false
+  },
+  {
+    "Nationality_Name_AR": "اماراتى",
+    "Nationality_Name_EN": "Emirati",
+    "IsDeleted": false
+  }
+]

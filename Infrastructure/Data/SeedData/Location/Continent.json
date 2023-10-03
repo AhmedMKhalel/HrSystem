@@ -1,0 +1,42 @@
+/*
+
+	Created By    : Eslam Elkhouly
+	Modified By   :
+	Created Data  : 12/06/2023
+	Modified Date :
+	Purpose       : Json data to be seed to Continent table in Db
+
+
+*/
+[
+  {
+    "Continent_Name_AR": "آسيا",
+    "Continent_Name_EN": "Asia",
+    "IsDeleted": false
+  },
+  {
+    "Continent_Name_AR": "أفريقيا",
+    "Continent_Name_EN": "Africa",
+    "IsDeleted": false
+  },
+  {
+    "Continent_Name_AR": "أوروبا",
+    "Continent_Name_EN": "Europe",
+    "IsDeleted": false
+  },
+  {
+    "Continent_Name_AR": "أمريكا الشمالية",
+    "Continent_Name_EN": "North America",
+    "IsDeleted": true
+  },
+  {
+    "Continent_Name_AR": "أمريكا الجنوبية",
+    "Continent_Name_EN": "South America",
+    "IsDeleted": true
+  },
+  {
+    "Continent_Name_AR": "أستراليا والمحيط الهادئ",
+    "Continent_Name_EN": "Australia and the Pacific",
+    "IsDeleted": true
+  }
+]
